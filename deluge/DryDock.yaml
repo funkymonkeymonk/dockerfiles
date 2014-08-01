@@ -1,9 +1,0 @@
-name: torrentz
-base: nekroze/deluge
-http_port: 8112
-exposed_ports:
-    58846: 58846
-volumes: [/config]
-external: No
-data: Yes
-

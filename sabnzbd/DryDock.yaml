@@ -1,7 +1,0 @@
-name: usenet
-base: nekroze/sabnzbd
-http_port: 8080
-volumes: [/config]
-external: No
-data: Yes
-
